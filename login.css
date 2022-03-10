@@ -1,0 +1,7 @@
+input[type="Email"]{
+    width: 100%;
+    display:block;
+    box-sizing: border-box;
+    padding: 0 10px;
+    height: 40px;
+}
